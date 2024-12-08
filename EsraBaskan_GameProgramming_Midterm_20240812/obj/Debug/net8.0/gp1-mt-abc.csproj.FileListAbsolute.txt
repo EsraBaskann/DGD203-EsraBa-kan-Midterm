@@ -1,0 +1,14 @@
+c:\Users\Burak\Desktop\gp1-mt-abc\bin\Debug\net8.0\gp1-mt-abc.exe
+c:\Users\Burak\Desktop\gp1-mt-abc\bin\Debug\net8.0\gp1-mt-abc.deps.json
+c:\Users\Burak\Desktop\gp1-mt-abc\bin\Debug\net8.0\gp1-mt-abc.runtimeconfig.json
+c:\Users\Burak\Desktop\gp1-mt-abc\bin\Debug\net8.0\gp1-mt-abc.dll
+c:\Users\Burak\Desktop\gp1-mt-abc\bin\Debug\net8.0\gp1-mt-abc.pdb
+c:\Users\Burak\Desktop\gp1-mt-abc\obj\Debug\net8.0\gp1-mt-abc.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Burak\Desktop\gp1-mt-abc\obj\Debug\net8.0\gp1-mt-abc.AssemblyInfoInputs.cache
+c:\Users\Burak\Desktop\gp1-mt-abc\obj\Debug\net8.0\gp1-mt-abc.AssemblyInfo.cs
+c:\Users\Burak\Desktop\gp1-mt-abc\obj\Debug\net8.0\gp1-mt-abc.csproj.CoreCompileInputs.cache
+c:\Users\Burak\Desktop\gp1-mt-abc\obj\Debug\net8.0\gp1-mt-abc.dll
+c:\Users\Burak\Desktop\gp1-mt-abc\obj\Debug\net8.0\refint\gp1-mt-abc.dll
+c:\Users\Burak\Desktop\gp1-mt-abc\obj\Debug\net8.0\gp1-mt-abc.pdb
+c:\Users\Burak\Desktop\gp1-mt-abc\obj\Debug\net8.0\gp1-mt-abc.genruntimeconfig.cache
+c:\Users\Burak\Desktop\gp1-mt-abc\obj\Debug\net8.0\ref\gp1-mt-abc.dll
